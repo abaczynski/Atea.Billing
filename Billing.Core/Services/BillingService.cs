@@ -1,6 +1,5 @@
 ﻿using Billing.Core.Interfaces;
 using Billing.Core.Models;
-using System;
 using System.Threading.Tasks;
 
 namespace Billing.Core.Services

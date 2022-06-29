@@ -3,7 +3,6 @@ using Billing.Api.Models;
 using Billing.Core.Interfaces;
 using Billing.Core.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using System.Threading.Tasks;
 
 namespace Billing.Api.Controllers
